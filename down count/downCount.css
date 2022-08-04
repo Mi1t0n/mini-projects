@@ -1,0 +1,31 @@
+.Content{
+    width: 900px;
+    height: 700px;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255 ,.8);
+    position: relative;
+}
+.UntilNewYear{
+    font-size: 50px;
+    text-align: center;
+    padding: 5px 0px;
+}
+.text{
+    position: absolute;
+    display: flex;
+    font-size: 30px;
+    width: 700px;
+    justify-content: space-between;
+    top: 150px;
+    left: 100px;
+}
+.clock{
+    position: absolute;
+    display: flex;
+    font-size: 50px;
+    width: 700px;
+    margin: 0 auto;
+    top: 250px;
+    left: 100px;
+    justify-content: space-between;
+}
